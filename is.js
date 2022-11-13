@@ -4,3 +4,4 @@ const newEl = document.createElement('div')
 newEl.innerHTML = `<span  class="git-span">Всем Привет!!!!</span>`
 console.log(newEl)
 h1.after(newEl)
+const newElem = document.createElement('ul')
