@@ -5,10 +5,10 @@ newEl.innerHTML = `<span  class="git-span">Всем Привет!!!!</span>`
 console.log(newEl)
 h1.after(newEl)
 const newElem = document.createElement('ul')
-newElem.insertAdjacent = (
-'afterbegin',
+newElem.innerHTML =
 `<li></li>
  <li></li>
  <li></li>
- <li></li>`)
+ <li></li>`
+ newElem.classList.add('roster')
 console.log(newElem)
