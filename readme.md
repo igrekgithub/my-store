@@ -1,2 +1,2 @@
 # Git and Github
-Изучение Git
+Learning Git
