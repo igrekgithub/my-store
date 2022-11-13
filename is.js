@@ -6,9 +6,9 @@ console.log(newEl)
 h1.after(newEl)
 const newElem = document.createElement('ul')
 newElem.innerHTML =
-`<li>1</li>
- <li>2</li>
- <li>3</li>
- <li>4</li>`
+`<li>Пункт №1</li>
+ <li>Пункт №12</li>
+ <li>Пункт №13</li>
+ <li>Пункт №14</li>`
  newElem.classList.add('roster')
 console.log(newElem)
