@@ -9,5 +9,4 @@ newElem.innerHTML =
 `<li>Пункт №1</li>
  <li>Пункт №2</li>
  <li>Пункт №3</li>`
- newElem.classList.add('roster')
 console.log(newElem)
