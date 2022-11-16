@@ -1,6 +1,7 @@
 .h1 {
   color: #1e5011;
   font-style: italic;
+  font-size: 40px;
 }
 .roster li {
   list-style: none;
