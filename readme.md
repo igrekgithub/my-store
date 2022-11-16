@@ -1,2 +1,2 @@
-## Try easy screening
+## Trying easy screening
 Learning Git
